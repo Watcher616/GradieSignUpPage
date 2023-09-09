@@ -60,6 +60,7 @@ body{
     padding-left: 2em;
     padding-right: 2em;
     align-items: start;
+    justify-content: start;
 }
 .login-title{
     color: #0a1012;
