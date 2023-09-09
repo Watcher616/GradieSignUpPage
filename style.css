@@ -55,6 +55,7 @@ body{
     position: absolute;
 }
 .form{
+    flex-direction: column;
     padding-left: 2em;
     padding-right: 2em;
 }
