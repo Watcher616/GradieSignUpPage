@@ -59,6 +59,7 @@ body{
     flex-direction: column;
     padding-left: 2em;
     padding-right: 2em;
+    align-items: start;
 }
 .login-title{
     color: #0a1012;
