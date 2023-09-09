@@ -144,6 +144,7 @@ a{
         padding-left: 0;
        padding-right: 0;
        padding-bottom: 2em;
+       flex-direction: column;
    }
     form{
         padding-left: 4em;
